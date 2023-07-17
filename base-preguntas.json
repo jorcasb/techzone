@@ -1,0 +1,52 @@
+[
+    {
+        "categoria": "PC",
+        "pregunta": "¿Cuál de las siguientes acciones puede ayudar a solucionar problemas de rendimiento en una computadora?",
+        "respuesta": "Actualizar los controladores de los componentes internos",
+        "incorrecta1": "Instalar más fuentes de alimentación",
+        "incorrecta2": "Actualizar los controladores de los periféricos",
+        "incorrecta3": "Limpiar la pantalla del monitor",
+        "imagen": "https://www.professionalwireless.com.co/wp-content/uploads/2022/04/People-2048x1200-1-2048x1024.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "CELULAR",
+        "pregunta": "¿Qué suele ser la causa más común de un teléfono celular que no se carga correctamente?",
+        "respuesta": "El puerto de carga del teléfono está sucio o dañado",
+        "incorrecta1": "El cable de carga está defectuoso",
+        "incorrecta2": "La batería está completamente agotada",
+        "incorrecta3": "El cargador no es compatible con el teléfono",
+        "imagen": "https://tn.com.ar/resizer/MC54YJ3rM3tPgdcdQ7QCT0HOsvk=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/47V24VHDIREPZI7P2VW3AEHSBA.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "VIDEOJUEGO",
+        "pregunta": "¿Cuál de los siguientes videojuegos fue lanzado originalmente en 1985?",
+        "respuesta": "Super Mario Bros",
+        "incorrecta1": "The Legend of Zelda",
+        "incorrecta2": "Tetris",
+        "incorrecta3": "Pac-Man",
+        "imagen": "https://hardwaresfera.com/wp-content/uploads/2019/07/videojuegos-retro.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "PC GAMER",
+        "pregunta": "¿Cuál de los siguientes componentes es esencial para un rendimiento óptimo en una PC gamer?",
+        "respuesta": "Tarjeta gráfica dedicada",
+        "incorrecta1": "Unidad de disco óptico (CD/DVD)",
+        "incorrecta2": "Tarjeta de sonido integrada",
+        "incorrecta3": "Memoria RAM de 2GB",
+        "imagen": "https://pcgamia.com/wp-content/uploads/2021/04/Ordenador-PC-Gaming-IP.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MARCA",
+        "pregunta": "¿A qué compañía le pertenece este logo?",
+        "respuesta": "XBOX",
+        "incorrecta1": "SEGA",
+        "incorrecta2": "NINTENDO",
+        "incorrecta3": "ACTIVISION",
+        "imagen": "https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/2/4072/files/2020/04/Xbox-Gen.jpg",
+        "objectFit": "cover"
+    }
+]

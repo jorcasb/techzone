@@ -1,0 +1,53 @@
+.intro {
+  height: 100%;
+}
+
+table th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+thead th {
+  color: #fff;
+}
+
+.card {
+  border-radius: .5rem;
+}
+
+.table-scroll {
+  border-radius: .5rem;
+}
+
+.table-scroll table thead th {
+  font-size: 1.25rem;
+}
+thead {
+  top: 0;
+  position: sticky;
+}
+
+.button-editar{
+    background: #298548; border: 0; padding: 10px 30px; color: #fff; transition: 0.4s; border-radius: 4px; height: 35px; width: 45px; display: block;
+}
+
+.button-editar:hover{
+    background: #1e6836;
+}
+
+.button-eliminar{
+    background: #c04242; border: 0; padding: 10px 30px; color: #fff; transition: 0.4s; border-radius: 4px; height: 35px; width: 45px; display: block;
+}
+
+.button-eliminar:hover{
+    background: #902626;
+}
+
+.button-agregar{
+    background: #2a4193; border: 0; padding: 10px 30px; color: #fff; transition: 0.4s; border-radius: 4px;
+}
+
+.button-agregar:hover{
+  background: #1e2a6a;
+}
